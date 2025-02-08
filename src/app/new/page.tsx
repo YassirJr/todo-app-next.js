@@ -1,7 +1,7 @@
+import CreateUpdateTodo from "@/components/create-update-todo";
+
 export default function CreateTodo(){
     return (
-        <div>
-            Create Todo
-        </div>
+        <CreateUpdateTodo />
     )
 }
